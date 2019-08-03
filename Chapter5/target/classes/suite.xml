@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--suite标签表示套件，在套件前执行的方法是SuiteConfig类中被@BeforeMethod注解标记的方法-->
+<!--suite标签表示套件，在套件后执行的方法是SuiteConfig类中被@AfterMethod注解标记的方法-->
+<!--套件中执行的方法是LoginTest类中被@Test注解标记的方法-->
+<!--套件中执行的方法是PayTest类中被@Test注解标记的方法-->
+<suite name="test">
+<!--起什么名字无所谓-->
+    <test name="login">
+
+        <classes>
+            <class name="com.course.testNG.suite.SuiteConfig"/>
+            <class name="com.course.testNG.suite.LoginTest"/>
+        </classes>
+    </test>
+
+
+    <test name="pay">
+
+        <classes>
+            <class name="com.course.testNG.suite.SuiteConfig"/>
+            <class name="com.course.testNG.suite.PayTest"/>
+        </classes>
+
+    </test>
+
+
+
+</suite>

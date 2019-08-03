@@ -1,0 +1,35 @@
+[
+  {
+    "description": "这是一个携带headers信息的post请求",
+     "request": {
+       "uri": "/postdemoheaders",
+       "method": "post",
+       "headers": {
+         "content-type": "application/json"
+       },
+       "cookies": {
+         "login": "true",
+         "aaa":"bbb"
+       },
+       "forms": {
+         "name": "zhangsan",
+         "sex": "man"
+       }
+     },
+    "response": {
+      "headers": {
+        "content-Type": "text/html;charset=gbk"
+      },
+      "json": {
+        "name": "zhangsan1",
+        "status": "1"
+      }
+    }
+
+
+
+
+
+
+ }
+]

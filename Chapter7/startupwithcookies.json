@@ -1,0 +1,79 @@
+[
+  {
+    "description": "这是一个会返回cookies信息的get请求",
+    "request": {
+      "uri": "/getCookies",
+      "method": "get"
+    },
+    "response": {
+      "headers": {
+        "content-Type": "text/html;charset=gbk"
+      },
+      "cookies": {
+        "login": "true"
+      },
+      "text": "恭喜你获得cookies信息成功"
+    }
+
+
+
+
+
+
+  },
+
+
+
+
+
+  {
+    "description": "这是一个携带cookies信息的get请求",
+    "request": {
+      "uri": "/getwithcookies",
+      "method": "get",
+      "cookies": {
+        "login": "true"
+      }
+    },
+    "response": {
+      "headers": {
+        "content-Type": "text/html;charset=gbk"
+      },
+      "text": "只有携带cookies信息才能访问"
+    }
+
+},
+  {
+    "description": "这是一个携带cookies信息的post请求",
+    "request": {
+      "uri": "/getwithcookiess",
+      "method": "post",
+      "cookies": {
+        "login": "true"
+
+      },
+      "json": {
+        "name": "zhangsan",
+        "age": "22"
+      }
+    },
+    "response": {
+     "headers": {
+       "content-Type": "text/html;charset=gbk"
+     },
+      "json": {
+        "zhangsan": "success",
+        "status": "1"
+      }
+
+    }
+
+  }
+
+
+
+
+
+
+
+ ]

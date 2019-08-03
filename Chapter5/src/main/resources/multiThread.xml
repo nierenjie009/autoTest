@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="thread" parallel="method" thread-count="2">
+<!--parllel="method"表示多线程级别是method级别,thread-count="2"表示多线程数量是2-->
+    <test name="demo1"> 一个test标签就代表一条测试用例
+        <classes>
+             <class name="com.course.server.testNG.multiThread.multiThreadOnXml"/>
+
+        </classes>
+    </test>
+
+    <test name="demo2">
+        <classes>
+            <class name="com.course.server.testNG.multiThread.multiThreadOnXml"/>
+
+        </classes>
+    </test>
+</suite>

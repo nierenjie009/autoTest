@@ -1,0 +1,91 @@
+2019-07-27 21:29:39.276 [main] INFO  com.course.Application - Starting Application on DESKTOP-NA9DL58 with PID 284 (C:\Users\nierenjie\IdeaProjects\autoTest\Chapter15\target\classes started by nierenjie in C:\Users\nierenjie\IdeaProjects\autoTest)
+2019-07-27 21:29:39.293 [main] INFO  com.course.Application - No active profile set, falling back to default profiles: default
+2019-07-27 21:29:41.653 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.course]' package. Please check your configuration.
+2019-07-27 21:29:42.168 [main] INFO  o.s.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$7cdead49] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-07-27 21:29:42.684 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8001 (http)
+2019-07-27 21:29:42.719 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-07-27 21:29:42.720 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-07-27 21:29:42.984 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-07-27 21:29:42.985 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 3446 ms
+2019-07-27 21:29:44.120 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-07-27 21:29:44.508 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskScheduler - Initializing ExecutorService 'taskScheduler'
+2019-07-27 21:29:44.572 [main] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2019-07-27 21:29:44.596 [main] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2019-07-27 21:29:44.621 [main] INFO  springfox.documentation.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2019-07-27 21:29:45.018 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8001 (http) with context path ''
+2019-07-27 21:29:45.022 [main] INFO  com.course.Application - Started Application in 6.941 seconds (JVM running for 10.393)
+2019-07-27 21:44:35.427 [main] INFO  com.course.Application - Starting Application on DESKTOP-NA9DL58 with PID 10744 (C:\Users\nierenjie\IdeaProjects\autoTest\Chapter15\target\classes started by nierenjie in C:\Users\nierenjie\IdeaProjects\autoTest)
+2019-07-27 21:44:35.432 [main] INFO  com.course.Application - No active profile set, falling back to default profiles: default
+2019-07-27 21:44:37.452 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.course]' package. Please check your configuration.
+2019-07-27 21:44:37.889 [main] INFO  o.s.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$ccac8e0f] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-07-27 21:44:38.511 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8001 (http)
+2019-07-27 21:44:38.569 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-07-27 21:44:38.570 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-07-27 21:44:38.941 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-07-27 21:44:38.944 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 3448 ms
+2019-07-27 21:44:40.054 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-07-27 21:44:40.445 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskScheduler - Initializing ExecutorService 'taskScheduler'
+2019-07-27 21:44:40.517 [main] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2019-07-27 21:44:40.541 [main] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2019-07-27 21:44:40.560 [main] INFO  springfox.documentation.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2019-07-27 21:44:40.984 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8001 (http) with context path ''
+2019-07-27 21:44:40.989 [main] INFO  com.course.Application - Started Application in 6.942 seconds (JVM running for 9.349)
+2019-07-27 22:21:58.993 [main] INFO  com.course.Application - Starting Application on DESKTOP-NA9DL58 with PID 6984 (C:\Users\nierenjie\IdeaProjects\autoTest\Chapter15\target\classes started by nierenjie in C:\Users\nierenjie\IdeaProjects\autoTest)
+2019-07-27 22:21:58.997 [main] INFO  com.course.Application - No active profile set, falling back to default profiles: default
+2019-07-27 22:22:00.424 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.course]' package. Please check your configuration.
+2019-07-27 22:22:00.847 [main] INFO  o.s.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$a26dbc1a] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-07-27 22:22:01.252 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8001 (http)
+2019-07-27 22:22:01.288 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-07-27 22:22:01.288 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-07-27 22:22:01.578 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-07-27 22:22:01.578 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2514 ms
+2019-07-27 22:22:02.659 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-07-27 22:22:02.992 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskScheduler - Initializing ExecutorService 'taskScheduler'
+2019-07-27 22:22:03.060 [main] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2019-07-27 22:22:03.081 [main] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2019-07-27 22:22:03.096 [main] INFO  springfox.documentation.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2019-07-27 22:22:03.478 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8001 (http) with context path ''
+2019-07-27 22:22:03.483 [main] INFO  com.course.Application - Started Application in 5.4 seconds (JVM running for 8.074)
+2019-07-27 22:24:40.738 [http-nio-8001-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-07-27 22:24:40.739 [http-nio-8001-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-07-27 22:24:40.751 [http-nio-8001-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 12 ms
+2019-07-27 22:26:05.670 [http-nio-8001-exec-5] WARN  org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.http.converter.HttpMessageNotReadableException: JSON parse error: Unexpected character ('u' (code 117)): was expecting double-quote to start field name; nested exception is com.fasterxml.jackson.core.JsonParseException: Unexpected character ('u' (code 117)): was expecting double-quote to start field name
+ at [Source: (PushbackInputStream); line: 2, column: 5]]
+2019-07-27 22:26:41.839 [http-nio-8001-exec-3] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2019-07-27 22:26:42.078 [http-nio-8001-exec-3] INFO  com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Driver does not support get/set network timeout for connections. (com.mysql.jdbc.JDBC4Connection.getNetworkTimeout()I)
+2019-07-27 22:26:42.086 [http-nio-8001-exec-3] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2019-07-27 22:26:42.121 [http-nio-8001-exec-3] INFO  com.course.controller.UserManager - 查询到的结果是:1
+2019-07-27 22:26:42.121 [http-nio-8001-exec-3] INFO  com.course.controller.UserManager - 登录的用户是:zhangsan
+2019-07-27 22:27:55.006 [http-nio-8001-exec-8] INFO  com.course.controller.UserManager - 查询到的结果是:0
+2019-07-27 22:28:10.113 [http-nio-8001-exec-9] INFO  com.course.controller.UserManager - 查询到的结果是:1
+2019-07-27 22:28:10.113 [http-nio-8001-exec-9] INFO  com.course.controller.UserManager - 登录的用户是:zhangsan
+2019-07-27 22:29:14.945 [http-nio-8001-exec-1] INFO  com.course.controller.UserManager - cookie验证通过
+2019-07-27 22:29:15.001 [http-nio-8001-exec-1] INFO  com.course.controller.UserManager - 获取到的用户数量是:1
+2019-07-27 22:29:40.800 [http-nio-8001-exec-6] INFO  com.course.controller.UserManager - 查询到的结果是:0
+2019-07-27 22:29:48.830 [http-nio-8001-exec-2] INFO  com.course.controller.UserManager - cookie验证通过
+2019-07-27 22:29:48.833 [http-nio-8001-exec-2] INFO  com.course.controller.UserManager - 获取到的用户数量是:1
+2019-07-27 22:32:45.920 [http-nio-8001-exec-5] INFO  com.course.controller.UserManager - cookie验证通过
+2019-07-27 22:32:45.923 [http-nio-8001-exec-5] INFO  com.course.controller.UserManager - 获取到的用户数量是:1
+2019-07-27 22:32:54.951 [http-nio-8001-exec-3] INFO  com.course.controller.UserManager - cookie验证通过
+2019-07-27 22:32:54.955 [http-nio-8001-exec-3] INFO  com.course.controller.UserManager - 获取到的用户数量是:8
+2019-07-27 22:32:58.150 [http-nio-8001-exec-4] INFO  com.course.controller.UserManager - cookie验证通过
+2019-07-27 22:32:58.156 [http-nio-8001-exec-4] INFO  com.course.controller.UserManager - 获取到的用户数量是:8
+2019-07-27 22:32:58.573 [http-nio-8001-exec-8] INFO  com.course.controller.UserManager - cookie验证通过
+2019-07-27 22:32:58.575 [http-nio-8001-exec-8] INFO  com.course.controller.UserManager - 获取到的用户数量是:8
+2019-07-27 22:32:58.797 [http-nio-8001-exec-9] INFO  com.course.controller.UserManager - cookie验证通过
+2019-07-27 22:32:58.799 [http-nio-8001-exec-9] INFO  com.course.controller.UserManager - 获取到的用户数量是:8
+2019-07-27 22:32:58.982 [http-nio-8001-exec-10] INFO  com.course.controller.UserManager - cookie验证通过
+2019-07-27 22:32:58.984 [http-nio-8001-exec-10] INFO  com.course.controller.UserManager - 获取到的用户数量是:8
+2019-07-27 22:32:59.208 [http-nio-8001-exec-1] INFO  com.course.controller.UserManager - cookie验证通过
+2019-07-27 22:32:59.210 [http-nio-8001-exec-1] INFO  com.course.controller.UserManager - 获取到的用户数量是:8
+2019-07-27 22:33:03.327 [http-nio-8001-exec-6] INFO  com.course.controller.UserManager - cookie验证通过
+2019-07-27 22:33:03.329 [http-nio-8001-exec-6] INFO  com.course.controller.UserManager - 获取到的用户数量是:1
+2019-07-27 22:33:03.700 [http-nio-8001-exec-2] INFO  com.course.controller.UserManager - cookie验证通过
+2019-07-27 22:33:03.702 [http-nio-8001-exec-2] INFO  com.course.controller.UserManager - 获取到的用户数量是:1
+2019-07-27 22:33:13.110 [http-nio-8001-exec-7] INFO  com.course.controller.UserManager - cookie验证通过
+2019-07-27 22:33:13.113 [http-nio-8001-exec-7] INFO  com.course.controller.UserManager - 获取到的用户数量是:3
+2019-07-27 22:34:24.326 [http-nio-8001-exec-3] INFO  com.course.controller.UserManager - cookie验证通过
+2019-07-27 22:34:24.329 [http-nio-8001-exec-3] INFO  com.course.controller.UserManager - 获取到的用户数量是:1
+2019-07-27 23:45:04.271 [http-nio-8001-exec-8] INFO  com.course.controller.UserManager - 查询到的结果是:1
+2019-07-27 23:45:04.272 [http-nio-8001-exec-8] INFO  com.course.controller.UserManager - 登录的用户是:zhangsan
+2019-07-27 23:46:03.264 [http-nio-8001-exec-10] INFO  com.course.controller.UserManager - 查询到的结果是:0

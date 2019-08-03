@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="产品经理是SB">
+    <test name="开发也是SB">
+        <classes>
+            <class name="com.tester.extend.demo.testMethodsDemo">
+            <methods>
+                <include name="test1"/>
+                <include name="test2"/>
+                <include name="test3"/>
+                <include name="test4"/>
+                <include name="logDemo"/>
+            </methods>
+            </class>
+        </classes>
+
+    </test>
+    <listeners>
+        <listener class-name="com.vimalselvam.testng.listener.ExtentTestNgFormatter"/>
+
+    </listeners>
+
+</suite>

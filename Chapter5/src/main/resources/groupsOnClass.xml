@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="suitename">
+    <test name="runAll">
+<!--        运行所有分组的类-->
+        <classes>
+            <class name="com.course.server.testNG.groups.GroupsOnClass1"/>
+            <class name="com.course.server.testNG.groups.GroupsOnClass2"/>
+            <class name="com.course.server.testNG.groups.GroupsOnClass3"/>
+        </classes>
+
+    </test>
+
+    <test name="onlyRunStu">
+        <!--仅运行学生组-->
+        <groups>
+            <run>
+                <include name="stu"></include>
+<!--            <exclude name="tea"></exclude>-->包含学生组，也就是不包含老师组，两种写法都可以
+            </run>
+        </groups>
+        <classes>
+            <class name="com.course.server.testNG.groups.GroupsOnClass1"/>
+            <class name="com.course.server.testNG.groups.GroupsOnClass2"/>
+            <class name="com.course.server.testNG.groups.GroupsOnClass3"/>
+        </classes>
+
+    </test>
+
+
+</suite>
