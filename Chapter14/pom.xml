@@ -82,7 +82,7 @@
                <configuration>
                    <suiteXmlFiles>
                        <suiteXmlFile>
-                           ./src/main/resources/cdestng.xml
+                           ./src/main/resources/testng.xml
                        </suiteXmlFile>
                    </suiteXmlFiles>
                </configuration>
