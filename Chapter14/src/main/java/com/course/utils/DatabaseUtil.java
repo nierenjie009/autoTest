@@ -12,7 +12,7 @@ public class DatabaseUtil {
 
     public static SqlSession getSqlSession() throws IOException {
        //获取配置的资源文件
-        Reader reader= Resources.getResourceAsReader("dataBaseConfig.xml");
+        Reader reader= Resources.getResourceAsReader("databaseConfig.xml");
 
         SqlSessionFactory factory=new SqlSessionFactoryBuilder().build(reader);
        //SqlSession就是能够执行配置文件中的sql语句
